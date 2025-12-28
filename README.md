@@ -4,7 +4,7 @@ This is a test repository.
 
 ## Getting Started
 
-This project is currently empty. More content will be added as needed.
+some contents for you
 
 ## License
 
